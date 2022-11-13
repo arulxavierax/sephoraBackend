@@ -1,3 +1,3 @@
 # sephoraBackend
 
-URL :- https://sephorabackend-production.up.railway.app/
+Sephora Backend URL :- https://sephorabackend-production.up.railway.app/
